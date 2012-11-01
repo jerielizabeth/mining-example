@@ -1,0 +1,23 @@
+Outline for text-mining presentation
+
+1. What is text mining?
+
+2. Example of current tools
+	- Highlight the DiRT wiki
+	- Use Voyant
+
+	Files for SB Anthony: 
+http://www.gutenberg.org/cache/epub/28020/pg28020.txt
+http://www.gutenberg.org/cache/epub/28039/pg28039.txt
+http://www.gutenberg.org/cache/epub/28556/pg28556.txt
+http://www.gutenberg.org/cache/epub/29870/pg29870.txt
+
+3. But what if the tools don't exactly work?
+	a. Using Python
+		- resources: Programming Historian
+		
+	b. Using R - punting on this
+
+4. What next?
+	- using the data for topic modeling (next week)
+	- visualizing the data
